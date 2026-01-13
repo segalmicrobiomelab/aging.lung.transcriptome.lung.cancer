@@ -4,8 +4,9 @@ This repository contains the analysis code used in our study of transcriptomic d
 The project focuses on lower-airway gene expression programs associated with age and prognosis after surgical resection.
 
 ## Contents
+Each cohort has a folder in which you wil find the following
 - **/scripts** – R scripts for data preprocessing, differential expression, co-expression network analysis (MEGENA), and pathway enrichment.
-- **/figures** – Code for generating key plots used in the manuscript.
+- **/counts** – genes counts tables used for downstream anlaysis .
 - **/data** – Metadata 
 
 ## Key Analyses
